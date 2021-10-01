@@ -33,7 +33,7 @@
 
   <img align="center" alt="Gwen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-  <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Ameri-gif" height="180" src="https://media.discordapp.net/attachments/890880104614477826/893289431971295312/6645f6b24696f74b8b1558bc9e97107e.gif">
 
 </div>
 
