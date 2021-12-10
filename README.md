@@ -1,11 +1,8 @@
-### Oie Gwent!
+### Um stats do meu nivel de Aprendizado! 
 
+- 🔭 Atualmente aprendendo C & C++
+- 🌱 Meu hooby é ficar criando sites   
 
-
-- 🔭 Estou Estudando JavaScript
-- 🌱 Eu estou aprendendo a criar softwares 
-
-- 😄 Pronouns: eli/deli
 
 <div>
 
