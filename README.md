@@ -1,7 +1,7 @@
 ### Um stats do meu nivel de Aprendizado! 
 
-- 🔭 Atualmente aprendendo C & C++
-- 🌱 Meu hooby é ficar criando sites   
+- 🔭 Cursando e Aprendendo Go;
+- 🌱 Meu Hobby é quebrar minha cabeça tentando resolver problemas.
 
 
 <div>
